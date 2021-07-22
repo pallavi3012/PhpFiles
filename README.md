@@ -8,4 +8,3 @@ mindtree
 
 hii
 
-employee
